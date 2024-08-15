@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+html
+{
+	background-image: url("./diary.jpg");
+	
+    background-size: cover;
+}
+h1
+{
+	background: #9B59B6;
+}
